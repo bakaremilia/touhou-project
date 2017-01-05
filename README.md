@@ -1,2 +1,37 @@
-# touhou-project
-东方Project的基础是日本同人游戏社团上海爱丽丝幻乐团所制作的一系列游戏，并在之后发展成了覆盖游戏、动漫、音乐、文学等诸多方面的一个领域。在该领域中，ZUN自行创作、ZUN与朋友合作和以ZUN的名义出版的作品叫做原作（一次设定），其他爱好者们自发进行的创作叫做二次创作。
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/bakaremilia/touhou-project/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bakaremilia/touhou-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
